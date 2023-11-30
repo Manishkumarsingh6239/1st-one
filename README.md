@@ -1,2 +1,2 @@
 # 1st-one
-Printing hello world
+print("Hello World")
